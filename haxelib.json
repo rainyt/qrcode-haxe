@@ -1,0 +1,14 @@
+{
+  "name": "qrcode-haxe", 
+  "url": "",
+  "license": "MIT",
+  "tags": [],
+  "description": "",
+  "version": "1.0.0",
+  "releasenote": "",
+  "contributors": ["rainy"],
+  "classPath": "src",
+  "dependencies": {
+
+  }
+}
