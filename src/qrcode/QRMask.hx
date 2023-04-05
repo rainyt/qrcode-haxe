@@ -6,6 +6,7 @@
 
 package qrcode;
 
+@:keep
 class QRMask {
 	public static inline var N1 : Int = 3;
 	public static inline var N2 : Int = 3;
